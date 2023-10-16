@@ -3,7 +3,7 @@
 <a href="https://flutter.dev/">Flutter</a> is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
 
 ## Support me buy my coffee
-<a href="hhttps://trakteer.id/digitalsoftware/link" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-3.png" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a>
+<a href="https://trakteer.id/digitalsoftware/link" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-3.png" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a>
 
 A Collection Template Platform for UI Slicing
 
