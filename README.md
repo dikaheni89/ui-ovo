@@ -7,4 +7,4 @@
 A Collection Template Platform for UI Slicing
 
 ## How to use
-<img src="/assets/gambar/1.jpg" width="30%" height="100%" /> | <img src="/assets/gambar/1.jpg" width="30%" height="100%" /> | <img src="/assets/gambar/3.jpg" width="30%" height="100%" /> | <img src="/assets/gambar/4.jpg" width="30%" height="100%" />
+<img src="/assets/gambar/1.jpg" width="30%" height="100%" /> | <img src="/assets/gambar/2.jpg" width="30%" height="100%" /> | <img src="/assets/gambar/3.jpg" width="30%" height="100%" /> | <img src="/assets/gambar/4.jpg" width="30%" height="100%" />
